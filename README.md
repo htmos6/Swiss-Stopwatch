@@ -1,8 +1,8 @@
-# SwissChronometer
+# Swiss-Stopwatch
 
 ## Description
 
-The SwissChronometer project is an FPGA-based chronometer designed to operate with nanosecond precision. Written in VHDL, this project implements a high-precision timing mechanism suitable for accurate measurement of elapsed time in milliseconds, seconds, and minutes. The chronometer includes debounced start and reset functionalities to ensure reliable operation. The design has been tested using a VHDL test bench and the Vivado Simulator (XSIM).
+The Swiss Stopwatch project is an FPGA-based stopwatch designed to operate with nanosecond precision. Written in VHDL, this project implements a high-precision timing mechanism suitable for accurate measurement of elapsed time in milliseconds, seconds, and minutes. The stopwatch includes debounced start and reset functionalities to ensure reliable operation. The design has been tested using a VHDL test bench and the Vivado Simulator (XSIM).
 
 ## Features
 
@@ -23,5 +23,5 @@ The SwissChronometer project is an FPGA-based chronometer designed to operate wi
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/SwissChronometer.git
+   git clone https://github.com/htmos6/Swiss-Stopwatch.git
    cd Chronometer
