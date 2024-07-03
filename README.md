@@ -24,4 +24,4 @@ The SwissChronometer project is an FPGA-based chronometer designed to operate wi
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/your-username/SwissChronometer.git
-   cd SwissChronometer
+   cd Chronometer
